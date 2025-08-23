@@ -13,6 +13,14 @@ System.out.println(result2);
 System.out.println(result3);
 System.out.println(result4); 
 System.out.println(result5); 
+
+        
+//Uma promoção de 20% no seu videogame favorito não parece ruim, certo? Vamos ver quanto economizaríamos usando as operadoras:
+ double originalPrice = 60.0;
+ double discount = 20.0;
+
+ double finalPrice = originalPrice - (originalPrice * (discount / 100));
+ System.out.println(finalPrice); 
         
     }
 }
