@@ -14,6 +14,7 @@ System.out.println(result3);
 System.out.println(result4); 
 System.out.println(result5); 
 
+    //praticando
         
 //Uma promoção de 20% no seu videogame favorito não parece ruim, certo? Vamos ver quanto economizaríamos usando as operadoras:
  double originalPrice = 60.0;
@@ -21,6 +22,18 @@ System.out.println(result5);
 
  double finalPrice = originalPrice - (originalPrice * (discount / 100));
  System.out.println(finalPrice); 
+
+//Você é um cientista em um laboratório misturando produtos químicos. Temos a fórmula necessária para causar uma reação química:
+        //resultado da reação​​​​​​​​= 
+        //UM+B / Um B
+        //Qual é o resultado da reação? Crie variáveis chemicalA​​e chemicalB, cada uma contendo uma quantidade aleatória de gramas.
+​
+
+  double chemicalA = 25.5;
+  double chemicalB = 50.0;
+
+  double result = (chemicalA + chemicalB) / (chemicalA * chemicalB);
+  System.out.println(finalPrice);        
         
     }
 }
