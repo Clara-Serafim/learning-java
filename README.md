@@ -10,14 +10,5 @@ Repository created to track my journey learning Java.
 - Variable scope and how to avoid naming conflicts  
 - Using `System.out.println()` to print values  
 
-## Next steps  
-- Control structures (`if`, `else`, `switch`, loops`)  
-- Methods (functions in Java)  
-- Classes and objects (OOP)  
-- Inheritance and polymorphism  
-- Java Collections  
-- File handling  
-- GUI programming  
-
 ---  
 ✨ Goal: keep improving my Java skills, documenting my progress, and turning this repository into a learning diary!  
